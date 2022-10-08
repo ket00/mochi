@@ -11,7 +11,7 @@ export default function Contact(props) {
                 <p>{props.phone}</p>
             </div>
             <div className="info-group">
-                <img src="./images/email--icon.png" />
+                <img src="./images/email--icon.png"/>
                 <p>{props.email}</p>
             </div>
         </div>

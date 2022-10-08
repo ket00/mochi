@@ -6,7 +6,7 @@ export default function Header() {
         <header>
             <nav className="nav">
                 <div className="logo">
-                    <img src="./images/logo.jpg" />
+                    <img src="./images/logo.jpg"/>
                     <h1>sweet mochies</h1>
                 </div>
                 <ul className="nav-items">
